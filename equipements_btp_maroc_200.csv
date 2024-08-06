@@ -1,0 +1,201 @@
+type_machine,age,heures_fonctionnement,date_derniere_maintenance,temperature,vibration,pression,etat_actuel,periode_maintenance
+Rouleau Compresseur,10,3917,2024-05-27,39.5,1.5,1.7,nécessite une maintenance,30
+Bétonnière,9,1665,2024-06-22,44.2,0.6,2.8,nécessite une maintenance,30
+Tombereau,3,2644,2024-07-18,48.7,0.9,1.4,fonctionnelle,30
+Compacteur,5,3458,2024-04-21,37.3,1.7,2.6,nécessite une maintenance,30
+Rouleau Compresseur,9,3503,2023-08-20,43.3,0.3,1.5,nécessite une maintenance,30
+Grue,4,1732,2024-07-30,44.9,1.2,1.8,fonctionnelle,30
+Compacteur,5,2307,2023-09-03,47.4,0.1,2.4,nécessite une maintenance,30
+Tombereau,8,608,2024-04-19,49.6,1.1,5.0,nécessite une maintenance,30
+Excavatrice,1,3189,2024-02-07,48.4,1.9,1.9,nécessite une maintenance,30
+Excavatrice,10,3038,2024-03-25,47.0,0.4,4.6,nécessite une maintenance,30
+Grue,10,2475,2023-08-24,38.9,0.8,3.8,nécessite une maintenance,30
+Tombereau,10,1129,2023-12-15,40.1,0.8,3.8,nécessite une maintenance,30
+Grue,5,4350,2024-01-28,45.0,0.5,3.6,nécessite une maintenance,30
+Rouleau Compresseur,8,2621,2023-11-27,40.0,0.6,2.4,nécessite une maintenance,30
+Compacteur,8,2304,2024-03-20,32.7,1.6,2.3,nécessite une maintenance,30
+Bétonnière,10,1802,2023-11-03,40.3,0.7,3.9,nécessite une maintenance,30
+Chargeuse,2,4210,2024-02-13,46.3,1.1,3.7,nécessite une maintenance,30
+Excavatrice,1,1871,2024-07-10,36.9,0.9,3.9,fonctionnelle,30
+Grue,6,2126,2023-12-09,41.1,1.4,1.3,nécessite une maintenance,30
+Tombereau,7,1597,2023-10-25,47.5,1.9,2.6,nécessite une maintenance,30
+Tombereau,2,3126,2024-07-19,33.5,1.3,1.7,fonctionnelle,30
+Compacteur,9,2843,2023-11-13,34.6,1.2,1.1,nécessite une maintenance,30
+Pelle,1,4631,2023-10-03,49.3,0.6,1.0,nécessite une maintenance,30
+Rouleau Compresseur,10,3515,2023-08-09,45.4,1.2,3.7,nécessite une maintenance,30
+Excavatrice,8,3381,2024-03-13,33.9,1.3,4.9,nécessite une maintenance,30
+Compacteur,6,4921,2023-09-24,50.0,0.8,3.4,nécessite une maintenance,30
+Rouleau Compresseur,5,2860,2024-07-25,37.0,0.2,1.6,fonctionnelle,30
+Bétonnière,2,3868,2024-02-24,30.7,1.5,2.9,nécessite une maintenance,30
+Compacteur,10,2145,2024-04-08,47.2,0.4,4.7,nécessite une maintenance,30
+Chargeuse,3,2084,2024-02-09,43.8,1.6,4.9,nécessite une maintenance,30
+Pelle,4,1318,2023-08-22,40.4,0.7,2.3,nécessite une maintenance,30
+Tombereau,2,3463,2024-07-11,37.7,0.5,3.7,fonctionnelle,30
+Excavatrice,3,2059,2023-09-11,47.8,2.0,2.7,nécessite une maintenance,30
+Grue,8,2374,2023-12-30,33.7,0.7,4.9,nécessite une maintenance,30
+Chargeuse,4,4038,2024-04-20,44.3,0.3,4.5,nécessite une maintenance,30
+Grue,2,1942,2024-01-22,37.3,1.9,3.6,nécessite une maintenance,30
+Compacteur,2,4808,2023-08-22,33.9,0.2,1.9,nécessite une maintenance,30
+Chargeuse,4,1707,2024-03-21,39.7,0.8,1.6,nécessite une maintenance,30
+Niveleuse,9,4107,2024-02-20,45.3,2.0,1.9,nécessite une maintenance,30
+Pelle,6,3656,2023-08-28,37.9,1.1,2.7,nécessite une maintenance,30
+Bétonnière,4,1470,2024-06-16,40.4,1.0,4.8,nécessite une maintenance,30
+Chargeuse,8,1415,2023-11-18,38.4,0.3,1.6,nécessite une maintenance,30
+Niveleuse,1,3237,2023-12-28,39.2,0.5,4.3,nécessite une maintenance,30
+Tombereau,2,1640,2024-03-27,49.5,1.6,4.8,nécessite une maintenance,30
+Excavatrice,10,2796,2024-07-11,33.9,1.8,1.2,fonctionnelle,30
+Bulldozer,7,899,2024-04-18,49.0,0.5,5.0,nécessite une maintenance,30
+Compacteur,5,828,2023-09-11,34.7,0.4,5.0,nécessite une maintenance,30
+Pelle,9,1781,2023-08-10,41.3,0.4,4.3,nécessite une maintenance,30
+Chargeuse,6,3714,2024-07-05,35.6,0.8,1.9,nécessite une maintenance,30
+Niveleuse,7,1111,2024-07-21,30.4,0.6,3.0,fonctionnelle,30
+Chargeuse,2,830,2024-07-14,46.9,0.3,4.7,fonctionnelle,30
+Bétonnière,9,2907,2023-11-23,40.0,0.9,2.5,nécessite une maintenance,30
+Rouleau Compresseur,6,1050,2023-10-28,44.6,0.2,2.7,nécessite une maintenance,30
+Excavatrice,9,3696,2024-02-14,36.4,0.3,1.2,nécessite une maintenance,30
+Bétonnière,5,4087,2024-01-23,47.7,1.3,4.1,nécessite une maintenance,30
+Niveleuse,7,3248,2024-04-06,30.4,0.8,3.0,nécessite une maintenance,30
+Excavatrice,9,2026,2023-12-13,41.4,2.0,3.7,nécessite une maintenance,30
+Tombereau,5,3574,2024-04-29,47.1,1.4,4.7,nécessite une maintenance,30
+Tombereau,10,3598,2024-01-27,34.5,0.7,1.3,nécessite une maintenance,30
+Rouleau Compresseur,7,683,2023-08-30,46.6,1.3,1.1,nécessite une maintenance,30
+Bétonnière,2,2541,2023-11-05,42.0,0.5,2.9,nécessite une maintenance,30
+Grue,5,855,2024-02-18,39.9,0.6,2.4,nécessite une maintenance,30
+Excavatrice,4,3281,2023-11-03,47.5,1.4,1.3,nécessite une maintenance,30
+Compacteur,2,2684,2024-05-01,34.3,1.7,2.4,nécessite une maintenance,30
+Bulldozer,6,2074,2023-12-06,36.8,0.5,4.1,nécessite une maintenance,30
+Niveleuse,6,1578,2024-07-02,45.7,1.1,1.3,nécessite une maintenance,30
+Bulldozer,2,1103,2023-12-02,47.1,0.8,4.4,nécessite une maintenance,30
+Chargeuse,7,2234,2023-12-29,48.3,1.4,4.4,nécessite une maintenance,30
+Rouleau Compresseur,2,3164,2024-03-28,35.1,1.6,4.5,nécessite une maintenance,30
+Niveleuse,3,2057,2024-05-22,38.4,0.3,4.8,nécessite une maintenance,30
+Compacteur,1,1461,2024-06-28,37.2,1.7,4.2,nécessite une maintenance,30
+Niveleuse,10,3476,2023-09-29,37.6,0.3,4.2,nécessite une maintenance,30
+Compacteur,2,3634,2023-12-28,34.2,0.2,2.3,nécessite une maintenance,30
+Niveleuse,6,3073,2023-10-29,48.7,1.3,4.5,nécessite une maintenance,30
+Grue,7,975,2023-08-27,43.5,0.5,2.0,nécessite une maintenance,30
+Rouleau Compresseur,3,607,2023-12-06,40.6,1.9,1.1,nécessite une maintenance,30
+Grue,6,2284,2023-09-19,36.3,1.4,2.3,nécessite une maintenance,30
+Bulldozer,8,1020,2024-03-27,40.0,0.2,4.9,nécessite une maintenance,30
+Bulldozer,9,4829,2024-02-18,31.5,1.2,1.1,nécessite une maintenance,30
+Rouleau Compresseur,4,661,2024-06-16,42.2,1.2,4.0,nécessite une maintenance,30
+Rouleau Compresseur,2,4611,2024-05-04,32.6,0.5,1.7,nécessite une maintenance,30
+Bulldozer,6,1760,2024-02-13,41.9,1.2,3.8,nécessite une maintenance,30
+Chargeuse,8,3916,2023-11-07,37.1,1.5,2.7,nécessite une maintenance,30
+Niveleuse,7,3425,2023-10-12,45.6,1.6,3.0,nécessite une maintenance,30
+Niveleuse,10,1912,2024-01-13,35.8,0.8,3.1,nécessite une maintenance,30
+Bulldozer,3,4479,2024-02-01,43.8,1.4,1.3,nécessite une maintenance,30
+Niveleuse,9,581,2024-01-16,32.6,1.3,1.2,nécessite une maintenance,30
+Niveleuse,1,4218,2024-02-01,48.9,1.5,4.0,nécessite une maintenance,30
+Chargeuse,10,3441,2024-04-25,33.2,1.1,4.2,nécessite une maintenance,30
+Bulldozer,8,2099,2023-12-13,45.9,0.5,3.4,nécessite une maintenance,30
+Niveleuse,7,625,2023-09-09,46.4,0.6,3.0,nécessite une maintenance,30
+Chargeuse,9,3625,2024-03-10,34.4,1.0,2.6,nécessite une maintenance,30
+Chargeuse,10,706,2023-08-24,35.5,0.9,1.8,nécessite une maintenance,30
+Rouleau Compresseur,1,1774,2024-02-12,35.7,1.3,2.4,nécessite une maintenance,30
+Bulldozer,1,2937,2023-12-23,47.0,0.9,2.3,nécessite une maintenance,30
+Rouleau Compresseur,8,2201,2024-07-24,35.5,0.5,2.5,fonctionnelle,30
+Niveleuse,9,758,2023-10-06,44.4,0.7,3.4,nécessite une maintenance,30
+Rouleau Compresseur,1,3600,2023-08-31,34.9,0.6,3.3,nécessite une maintenance,30
+Bétonnière,6,957,2023-12-31,39.9,1.1,2.3,nécessite une maintenance,30
+Compacteur,9,2113,2023-10-17,35.3,0.2,4.6,nécessite une maintenance,30
+Rouleau Compresseur,8,3599,2023-09-16,44.5,0.8,1.8,nécessite une maintenance,30
+Bulldozer,3,2370,2023-10-09,46.2,1.5,3.7,nécessite une maintenance,30
+Grue,8,3577,2024-04-04,32.3,0.3,4.5,nécessite une maintenance,30
+Rouleau Compresseur,2,3995,2023-12-31,40.4,0.4,1.7,nécessite une maintenance,30
+Bulldozer,4,2146,2023-08-31,39.2,1.8,1.6,nécessite une maintenance,30
+Excavatrice,6,1646,2024-06-14,44.6,1.4,2.8,nécessite une maintenance,30
+Excavatrice,4,983,2024-07-20,30.2,1.8,1.8,fonctionnelle,30
+Chargeuse,9,2069,2024-05-29,38.1,1.5,2.6,nécessite une maintenance,30
+Tombereau,10,2814,2023-12-15,43.0,1.7,2.8,nécessite une maintenance,30
+Bétonnière,4,3885,2024-07-29,39.4,0.9,1.0,fonctionnelle,30
+Compacteur,5,3839,2024-06-20,42.8,0.2,4.0,nécessite une maintenance,30
+Bulldozer,8,1634,2024-03-22,37.0,0.4,4.8,nécessite une maintenance,30
+Tombereau,7,3952,2023-09-30,47.9,1.7,2.8,nécessite une maintenance,30
+Bulldozer,7,1454,2024-06-22,43.4,0.2,3.2,nécessite une maintenance,30
+Chargeuse,2,2900,2024-03-28,39.4,1.6,2.9,nécessite une maintenance,30
+Bétonnière,7,2751,2023-09-24,44.8,1.4,3.5,nécessite une maintenance,30
+Niveleuse,2,1963,2024-06-09,31.9,0.8,1.7,nécessite une maintenance,30
+Niveleuse,7,2444,2024-03-30,45.1,1.1,1.1,nécessite une maintenance,30
+Chargeuse,3,2451,2023-12-12,44.9,0.5,4.2,nécessite une maintenance,30
+Bulldozer,1,1121,2023-11-12,47.2,0.1,1.8,nécessite une maintenance,30
+Rouleau Compresseur,9,2683,2024-02-17,32.7,0.2,3.4,nécessite une maintenance,30
+Rouleau Compresseur,2,4621,2024-04-25,39.5,0.8,4.1,nécessite une maintenance,30
+Niveleuse,4,4087,2024-04-29,43.1,0.4,4.6,nécessite une maintenance,30
+Bulldozer,10,4095,2024-03-08,39.7,1.9,3.0,nécessite une maintenance,30
+Rouleau Compresseur,6,3258,2024-07-07,31.8,1.2,3.1,fonctionnelle,30
+Grue,1,2340,2024-03-18,46.2,0.4,1.9,nécessite une maintenance,30
+Grue,6,2248,2024-07-09,31.3,0.8,2.9,fonctionnelle,30
+Compacteur,9,3341,2024-02-20,42.8,0.7,2.9,nécessite une maintenance,30
+Bulldozer,3,2324,2024-03-30,31.9,1.2,2.4,nécessite une maintenance,30
+Niveleuse,7,3996,2023-11-03,40.0,0.5,2.5,nécessite une maintenance,30
+Chargeuse,10,2874,2023-10-17,32.8,1.8,3.1,nécessite une maintenance,30
+Chargeuse,9,2115,2024-05-13,46.8,1.3,1.4,nécessite une maintenance,30
+Grue,1,2604,2024-07-13,42.4,0.9,2.0,fonctionnelle,30
+Chargeuse,8,1762,2024-01-15,35.3,1.1,5.0,nécessite une maintenance,30
+Bulldozer,6,4568,2023-11-22,41.8,1.7,4.3,nécessite une maintenance,30
+Pelle,10,2078,2023-10-01,30.7,1.5,4.3,nécessite une maintenance,30
+Rouleau Compresseur,8,2370,2024-01-20,42.0,0.9,1.6,nécessite une maintenance,30
+Bétonnière,6,1359,2023-09-29,33.8,2.0,1.2,nécessite une maintenance,30
+Tombereau,4,3135,2024-02-08,46.2,1.3,1.1,nécessite une maintenance,30
+Pelle,5,4987,2024-04-14,45.8,0.7,4.0,nécessite une maintenance,30
+Tombereau,4,4907,2023-10-24,37.9,1.0,4.3,nécessite une maintenance,30
+Bétonnière,4,3287,2024-02-14,35.0,1.7,3.2,nécessite une maintenance,30
+Bulldozer,1,4129,2023-11-22,31.3,0.2,4.4,nécessite une maintenance,30
+Niveleuse,1,637,2024-07-08,34.6,1.9,3.2,fonctionnelle,30
+Tombereau,3,3934,2024-06-12,40.0,0.7,2.5,nécessite une maintenance,30
+Tombereau,1,2699,2023-09-02,45.4,1.8,1.1,nécessite une maintenance,30
+Compacteur,8,1158,2023-11-06,38.3,0.3,1.9,nécessite une maintenance,30
+Pelle,5,2011,2023-12-18,48.9,1.3,1.7,nécessite une maintenance,30
+Bétonnière,1,972,2024-01-19,34.2,1.6,4.0,nécessite une maintenance,30
+Niveleuse,4,2520,2023-10-07,43.9,1.7,4.3,nécessite une maintenance,30
+Grue,10,614,2024-04-13,31.4,1.9,2.6,nécessite une maintenance,30
+Niveleuse,7,3790,2023-09-27,46.8,0.2,1.7,nécessite une maintenance,30
+Chargeuse,6,4110,2023-09-14,45.2,0.4,1.8,nécessite une maintenance,30
+Chargeuse,6,1045,2023-09-04,43.9,1.1,3.1,nécessite une maintenance,30
+Rouleau Compresseur,7,4101,2023-08-18,30.4,0.4,2.4,nécessite une maintenance,30
+Grue,9,1982,2024-02-10,33.5,1.0,4.8,nécessite une maintenance,30
+Bulldozer,9,2408,2024-01-09,48.8,0.7,4.6,nécessite une maintenance,30
+Excavatrice,7,1386,2023-11-20,38.7,0.9,2.5,nécessite une maintenance,30
+Grue,7,4097,2024-06-14,34.8,1.4,1.1,nécessite une maintenance,30
+Niveleuse,3,4190,2024-07-08,48.7,0.7,1.2,fonctionnelle,30
+Chargeuse,2,1698,2023-08-07,40.1,2.0,1.2,nécessite une maintenance,30
+Grue,4,4817,2023-12-01,48.6,1.8,2.9,nécessite une maintenance,30
+Grue,2,3282,2023-08-24,48.2,1.7,3.9,nécessite une maintenance,30
+Excavatrice,1,3095,2023-08-13,35.0,1.5,2.7,nécessite une maintenance,30
+Grue,8,4207,2024-02-05,31.2,1.4,3.5,nécessite une maintenance,30
+Pelle,1,1450,2024-04-22,45.3,1.2,2.2,nécessite une maintenance,30
+Pelle,10,1944,2023-09-20,32.5,0.4,1.1,nécessite une maintenance,30
+Grue,2,2508,2024-01-31,40.9,1.0,4.9,nécessite une maintenance,30
+Niveleuse,7,912,2024-06-20,32.9,1.1,4.8,nécessite une maintenance,30
+Excavatrice,7,1891,2024-02-15,43.8,0.9,2.4,nécessite une maintenance,30
+Tombereau,3,4057,2024-01-09,47.3,0.9,1.7,nécessite une maintenance,30
+Rouleau Compresseur,5,775,2024-02-08,37.5,1.9,3.1,nécessite une maintenance,30
+Rouleau Compresseur,2,1848,2024-01-17,49.6,2.0,1.7,nécessite une maintenance,30
+Bulldozer,10,603,2024-06-22,46.4,1.2,3.1,nécessite une maintenance,30
+Tombereau,3,1010,2024-06-08,45.0,1.9,1.4,nécessite une maintenance,30
+Excavatrice,3,1571,2024-06-19,48.5,2.0,3.1,nécessite une maintenance,30
+Pelle,5,1060,2024-02-23,48.1,1.5,2.1,nécessite une maintenance,30
+Bétonnière,4,2101,2024-06-29,48.6,1.1,4.6,nécessite une maintenance,30
+Tombereau,9,873,2024-04-05,41.4,1.1,1.9,nécessite une maintenance,30
+Bulldozer,3,2418,2024-05-27,41.4,0.7,3.1,nécessite une maintenance,30
+Bétonnière,2,3184,2024-01-28,33.1,0.2,3.8,nécessite une maintenance,30
+Pelle,7,967,2023-12-09,34.3,0.2,4.1,nécessite une maintenance,30
+Rouleau Compresseur,10,2893,2024-07-23,32.1,0.4,2.2,fonctionnelle,30
+Pelle,1,1350,2024-07-30,43.1,0.5,3.2,fonctionnelle,30
+Compacteur,4,4831,2023-10-11,44.5,1.8,3.2,nécessite une maintenance,30
+Bétonnière,1,2906,2023-09-09,31.2,0.2,4.9,nécessite une maintenance,30
+Excavatrice,5,679,2024-02-15,49.6,0.8,4.6,nécessite une maintenance,30
+Chargeuse,8,3230,2023-08-27,48.7,1.9,1.2,nécessite une maintenance,30
+Bulldozer,9,1950,2023-09-04,48.6,1.8,2.9,nécessite une maintenance,30
+Niveleuse,10,4968,2023-11-16,37.0,1.7,2.6,nécessite une maintenance,30
+Excavatrice,3,2989,2024-06-24,48.0,0.1,3.7,nécessite une maintenance,30
+Grue,2,1705,2024-07-27,35.2,1.0,3.9,fonctionnelle,30
+Chargeuse,4,2077,2024-06-04,37.8,0.8,2.7,nécessite une maintenance,30
+Rouleau Compresseur,9,3594,2023-08-17,48.8,0.4,4.6,nécessite une maintenance,30
+Compacteur,4,964,2023-12-09,47.4,1.4,2.8,nécessite une maintenance,30
+Bétonnière,5,4285,2023-11-27,31.4,0.1,3.6,nécessite une maintenance,30
+Pelle,9,4211,2023-12-08,40.7,0.3,4.0,nécessite une maintenance,30
+Grue,5,1682,2024-01-04,33.1,1.5,2.6,nécessite une maintenance,30
+Chargeuse,2,2073,2024-05-19,31.9,1.7,2.7,nécessite une maintenance,30
+Bétonnière,6,3156,2024-01-02,49.9,0.3,1.4,nécessite une maintenance,30
